@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yummy.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a13f5d8d6aa31dc933909acb08938abf4363bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7815bbb42137f2cf0de314ee57e030fe6cea3fcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yummy.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yummy.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
